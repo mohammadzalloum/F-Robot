@@ -1,8 +1,8 @@
+# 🤖 f-tobot
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbc32974-149c-4d6d-a58e-31533d7be94d" alt="Robot image" style="width: 400px; max-width: 100%; height: auto;" />
 </p>
-
-# 🤖 f-tobot
 
 This is an autonomous agricultural scout robot designed to navigate farmlands, perform planting and watering tasks, and monitor environmental conditions. It integrates environmental sensors, a high-resolution camera, front-facing LED lights, and can be fully controlled via a mobile application through Bluetooth.
 
@@ -66,4 +66,4 @@ This is an autonomous agricultural scout robot designed to navigate farmlands, p
 ## 📜 License
 
 This project is licensed for **personal and educational use only**.  
-Commercial use, redistribution, or sale of this project or its derivatives is strictly prohibited.
+Commercial use, redistribution, or sale of this project or its derivatives is strictly prohibited.  
