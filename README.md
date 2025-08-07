@@ -67,4 +67,3 @@ This is an autonomous agricultural scout robot designed to navigate farmlands, p
 
 This project is licensed for **personal and educational use only**.  
 Commercial use, redistribution, or sale of this project or its derivatives is strictly prohibited.
-
