@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbc32974-149c-4d6d-a58e-31533d7be94d" alt="f-tobot robot" style="width:600px; max-width:100%; height:auto;" />
+  <img src="https://github.com/user-attachments/assets/cbc32974-149c-4d6d-a58e-31533d7be94d" alt="Robot image" style="width: 400px; max-width: 100%; height: auto;" />
 </p>
 
 # 🤖 f-tobot
