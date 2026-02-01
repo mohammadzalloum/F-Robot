@@ -1,7 +1,10 @@
 # 🤖 f-tobot
 
+
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbc32974-149c-4d6d-a58e-31533d7be94d" alt="Robot image" style="width: 400px; max-width: 100%; height: auto;" />
+  <img width="1536" height="1024" alt="ChatGPT Image 1 فبراير 2026، 06_20_36 م" src="https://github.com/user-attachments/assets/6f7fe752-b53c-47d7-850c-eba94b9ce5f8" />
 </p>
 
 This is an autonomous agricultural scout robot designed to navigate farmlands, perform planting and watering tasks, and monitor environmental conditions. It integrates environmental sensors, a high-resolution camera, front-facing LED lights, and can be fully controlled via a mobile application through Bluetooth.
